@@ -4,7 +4,7 @@
 ![alt text](cover.jpg)
 
 ### Project Overview
-    This report aims to evaluate the performance of VoyceMe series against its
+This report aims to evaluate the performance of VoyceMe series against its
 competitors by analyzing views and search counts from the provided datasets. The
 primary objective is to pinpoint high-performing and under-performing series, delve
 into genre-specific engagement trends, and offer data-driven strategies to bolster
