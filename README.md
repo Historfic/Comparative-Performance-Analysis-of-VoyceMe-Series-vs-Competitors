@@ -1,7 +1,7 @@
 ﻿# Comparative-Performance-Analysis-of-VoyceMe-Series-vs.-Competitors
 
 
-![alt text](plots/cover.jpg)
+![alt text](cover.jpg)
 
 ### Project Overview
     This report aims to evaluate the performance of VoyceMe series against its
